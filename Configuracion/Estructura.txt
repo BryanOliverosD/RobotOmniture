@@ -1,0 +1,7 @@
+Nombre Archivo|
+Columna Codigo|
+Nombre Archivo Ultima Celda|
+Ruta Archivo Origen|
+Nombre Hoja|
+Registros Anteriores a Validar|
+Ruta Plantillas Archivos TAB
